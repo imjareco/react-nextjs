@@ -1,0 +1,15 @@
+.header {
+    padding: 8px 32px;
+    background-color: black;
+}
+
+.logo {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    color: white;
+}
